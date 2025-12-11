@@ -1,4 +1,5 @@
-## For fun and my own learning ![FriezaGIF](https://github.com/user-attachments/assets/5e25855a-d70f-4547-9468-2eb771bb337c)
+## For fun and my own learning
+![FriezaGIF](https://github.com/user-attachments/assets/5e25855a-d70f-4547-9468-2eb771bb337c)
 
 
 
