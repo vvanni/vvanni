@@ -1,5 +1,9 @@
-## For fun and my own learning
-![FriezaGIF](https://github.com/user-attachments/assets/5e25855a-d70f-4547-9468-2eb771bb337c)
+<h2 align="center"><samp>For fun and my own learning 🤫</samp></h4>
+
+<p align="center">
+  <img width="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmx1ZDQyM2l0bXhldGNmbmFhYzkzejJjdXNhbnFjczJ5b2l4MWMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/twQN0OB84MFP2/giphy.gif">
+</p>
+
 
 
 
