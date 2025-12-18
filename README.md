@@ -1,7 +1,7 @@
 <h2 align="center"><samp>For my own learning 😃</samp></h4>
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmx1ZDQyM2l0bXhldGNmbmFhYzkzejJjdXNhbnFjczJ5b2l4MWMyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/twQN0OB84MFP2/giphy.gif">
+  <img width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHp6bnUyMTA4Y25nd3FsZngxbmhnZmM3aGdyazRyb2psZmd1bGV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVvHNvjKltGvtthDz5/giphy.gif">
 </p>
 
 
